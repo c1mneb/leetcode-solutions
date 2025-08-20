@@ -4,6 +4,14 @@
 
 ## Статистика
 
+```dataview
+TABLE length(rows) AS "Решено"
+FROM "problems"
+WHERE Сложность
+GROUP BY Сложность
+SORT Сложность
+```
+
 | Сложность | Решено |
 |-----------|--------|
 | Easy      | 4      |
