@@ -6,14 +6,15 @@
 
 | Сложность | Решено |
 |-----------|--------|
-| Easy      | 0      |
+| Easy      | 3      |
 | Medium    | 0      |
 | Hard      | 0      |
 
 ## Решения
 
 ### Easy
-- [ ] 1. Two Sum - [Решение](./problems/easy/1-two-sum.py)
+- [ ] 1. Two Sum - [Решение c++](./problems/easy/1-two-sum/1-two-sum.cpp)[Решение Python](./problems/easy/1-two-sum/1-two-sum.py)
+- [ ] 
 
 ### Medium
 - [ ] 2. Add Two Numbers - [Решение](./problems/medium/2-add-two-numbers.py)
@@ -26,6 +27,9 @@
 # Клонировать репозиторий
 git clone https://github.com/c1mneb/leetcode-solutions.git
 
-# Добавить новое решение
-python add_solution.py 15 "3Sum" medium
+# Добавить новое решение для c++
+python add_cpp_solution.py 15 "Two Sum" easy
+
+# Добавить новое решение для python
+python add_py_solution.py 1 "Two Sum" easy
 ```
