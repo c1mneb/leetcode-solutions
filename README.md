@@ -6,21 +6,23 @@
 
 | Сложность | Решено |
 |-----------|--------|
-| Easy      | 3      |
+| Easy      | 4      |
 | Medium    | 0      |
 | Hard      | 0      |
 
 ## Решения
 
 ### Easy
-- [ ] 1. Two Sum - [Решение c++](./problems/easy/1-two-sum/1-two-sum.cpp)[Решение Python](./problems/easy/1-two-sum/1-two-sum.py)
-- [ ] 
+-  [1. Two Sum](https://leetcode.com/problems/two-sum/) - [Решение c++](./problems/easy/1-two-sum/1-two-sum.cpp)  [Решение Python](./problems/easy/1-two-sum/1-two-sum.py)
+-  [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) - [Решение С++](./problems/easy/9-palindrome-number/9-palindrome-number.cpp)  [Решение Python](./problems/easy/9-palindrome-number/9-palindrome-number.py)
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) - [Решение С++](./problems/easy/13-roman-to-integer/13-roman-to-integer.cpp)  [Решение Python](./problems/easy/13-roman-to-integer/13-roman-to-integer.py)
+- [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Решение С++](./problems/easy/14-longest-common-prefix/14-longest-common-prefix.cpp)  [Решение python](./problems/easy/14-longest-common-prefix/14-longest-common-prefix.py)
 
 ### Medium
-- [ ] 2. Add Two Numbers - [Решение](./problems/medium/2-add-two-numbers.py)
+- 
 
 ### Hard
-- [ ] 4. Median of Two Sorted Arrays - [Решение](./problems/hard/4-median-of-two-sorted-arrays.py)
+- 
 
 ## Как использовать
 ```bash
