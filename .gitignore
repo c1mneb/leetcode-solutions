@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# C++
+*.o
+*.out
+a.out
+main
+solution
+
+.obsidian/
